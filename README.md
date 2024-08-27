@@ -12,7 +12,7 @@ Este é um projeto simples em Python que simula um sistema bancário básico. El
 - **Sair:** Fecha o sistema.
 - 
    ```bash
-   git clone [https://github.com/KeepYaHeadUp/LAB_PROJECTS_DIO_NTT_BOOTCAMP/blob/main/Software_Bancario_1.0.py]
+   git clone https://github.com/KeepYaHeadUp/LAB_PROJECTS_DIO_NTT_BOOTCAMP/blob/main/Software_Bancario_1.0.py
 
    
 ## Update 1.1
@@ -27,4 +27,4 @@ Este é um projeto simples em Python que simula um sistema bancário básico. El
 - **Sair:** Fecha o sistema.
 
    ```bash
-   git clone [https://github.com/KeepYaHeadUp/LAB_PROJECTS_DIO_NTT_BOOTCAMP/blob/main/bank_datetime_update.py]
+   git clone https://github.com/KeepYaHeadUp/LAB_PROJECTS_DIO_NTT_BOOTCAMP/blob/main/bank_datetime_update.py
