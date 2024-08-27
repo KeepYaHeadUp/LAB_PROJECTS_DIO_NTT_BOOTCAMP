@@ -6,7 +6,7 @@ Este é um projeto simples em Python que simula um sistema bancário básico. El
 
 ## Software_Bancario_1.0.py
 
- **Depósito:** Você pode colocar dinheiro na sua conta.
+- **Depósito:** Você pode colocar dinheiro na sua conta.
 - **Saque:** Você pode tirar dinheiro, mas tem um limite diário e um máximo por saque.
 - **Extrato:** Mostra tudo o que você fez, como depósitos e saques, e também o saldo.
 - **Sair:** Fecha o sistema.
