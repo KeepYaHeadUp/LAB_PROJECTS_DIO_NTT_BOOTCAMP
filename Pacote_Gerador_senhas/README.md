@@ -11,3 +11,5 @@
 
 3. **Receba sua senha**:
    - O script gerará uma senha aleatória com base nas suas entradas e exibirá no terminal.
+
+Link para o TestPypi: https://test.pypi.org/project/HEAD-gerador-senhas/
